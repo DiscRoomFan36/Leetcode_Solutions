@@ -9,5 +9,10 @@ One Random Problem per day
 ```bash
 # compile the build script once.
 $ cc -o nob nob.c
+
+# run
+$ ./nob
+# for now this will only check for compilation errors...
+# no tests are run.
 ```
 
