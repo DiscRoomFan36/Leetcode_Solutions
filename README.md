@@ -1,10 +1,12 @@
 
-# One Leetcode Problem per day until I get a job
+# One Leetcode Problem Per Day
 
 One Random Problem per day
 
 
 ## Quick Start
+
+NOTE. this doesn't work, there is some random crash in nob.c, may fix later, but for now i just slap the problems in here. at least the git graph looks good.
 
 ```bash
 # compile the build script once.
