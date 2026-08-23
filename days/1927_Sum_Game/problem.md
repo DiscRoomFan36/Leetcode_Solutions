@@ -1,5 +1,4 @@
 # 1927. Sum Game
-1927_Sum_Game
 
 Alice and Bob take turns playing a game, with Alice starting first.
 
